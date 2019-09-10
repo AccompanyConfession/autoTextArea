@@ -1,0 +1,25 @@
+body{
+	background-image: url(../image/bg.jpg);
+	height:100%;
+	width:100%;
+	overflow: hidden;
+}
+#textarea {
+	position: absolute;
+	font:25px Arial;
+	overflow:hidden;
+	width:50%;
+	height:300px;
+	top:20%;
+	left: 25%;
+	background-color: rgba(255,255,255,0.3);
+	border-radius: 5px;
+	color:white;
+}
+div{
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	width: 100%;
+}
+
